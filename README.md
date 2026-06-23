@@ -1,56 +1,235 @@
 <!-- @format -->
 
-<!-- TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=00FFFF&size=26&center=true&vCenter=true&width=700&height=100&lines=Hey+👋+Welcome+to+My+GitHub;Kittu+Here+🚀;Active+Learner+%7C+Always+Growing;Code+•+Coffee+•+Repeat" />
-</p>
 
-<!-- ABOUT -->
-<p align="center">
-  <b>
-    👨‍💻 He / Him <br/>
-    💡 Coding for fun & curiosity <br/>
-    ☕ Coffee > Everything <br/>
-    🎨 Currently learning sketching
-  </b>
-</p>
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=e137x&label=Profile%20Views&color=00FFFF&style=flat" />
-</p>
-
-<!-- MAIN STATS -->
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=r0sharma&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0sharma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- STREAK -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=r0sharma&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0sharma&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<div align="center">
 
 
 
+# ⚡ bzh6 ⚡
 
-<!-- CONTACT -->
-<p align="center">
-  <a href="mailto:r0sharma@proton.me">
-    <b>📧 Email</b>
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://discord.com/invite/jsk">
-    <b>💬 Discord</b>
-  </a>
-</p>
 
-<!-- SKILLS -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,js,css,html&theme=dark" />
-</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=bzh6;Python+Developer;Discord+Automation;Building+Cool+Stuff;Code+%E2%80%A2+Create+%E2%80%A2+Repeat" />
+
+
+
+<img src="https://komarev.com/ghpvc/?username=r0sharma&label=Profile+Views&color=00ffff&style=for-the-badge" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+```text
+
+██████╗ ███████╗██╗  ██╗ ██████╗
+
+██╔══██╗╚══███╔╝██║  ██║██╔════╝
+
+██████╔╝  ███╔╝ ███████║███████╗
+
+██╔══██╗ ███╔╝  ██╔══██║██╔═══██╗
+
+██████╔╝███████╗██║  ██║╚██████╔╝
+
+╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝
+
+```
+
+
+
+</div>
+
+
+
+## 🚀 About Me
+
+
+
+```yaml
+
+Name: Ritik Sharma
+
+Alias: bzh6
+
+Brand: Valine
+
+Role: Python Developer
+
+
+
+Focus:
+
+  - Discord Automation
+
+  - Backend Development
+
+  - API Integration
+
+  - Open Source Projects
+
+
+
+Current Status:
+
+  - Building
+
+  - Learning
+
+  - Improving
+
+```
+
+
+
+---
+
+
+
+## ⚒️ Tech Stack
+
+
+
+<div align="center">
+
+
+
+<img src="https://skillicons.dev/icons?i=python,go,js,html,css,sqlite,git,github,vscode,linux,docker&theme=dark"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## 📊 GitHub Statistics
+
+
+
+<div align="center">
+
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bzh6&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzh6&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+
+</div>
+
+
+
+<div align="center">
+
+
+
+<img src="https://streak-stats.demolab.com?user=bzh6&theme=tokyonight&hide_border=true"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## 📈 Contribution Activity
+
+
+
+<div align="center">
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bzh6&theme=tokyo-night&hide_border=true&area=true"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+## 🎯 Current Goals
+
+
+
+```text
+
+[✓] Build useful tools
+
+[✓] Improve Python skills
+
+[✓] Learn more backend development
+
+[ ] Launch bigger projects
+
+[ ] Grow Valine
+
+```
+
+
+
+---
+
+
+
+## 🌐 Connect
+
+
+
+<div align="center">
+
+
+
+📧 Email: [bzh6@proton.me](mailto:bzh6@proton.me)
+
+
+
+💬 Discord: bzh6
+
+
+
+🚀 Brand: Valine
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+### "Code. Learn. Build. Repeat."
+
+
+
+</div>
